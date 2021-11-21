@@ -1,0 +1,9 @@
+aiogram
+aioredis
+asyncclick
+environs
+gino
+loguru
+sqlalchemy
+tekore
+apscheduler
